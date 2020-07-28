@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+i started using **github** today, i really would like to expand my programming skills by using **github** to become a *legendary developer*
