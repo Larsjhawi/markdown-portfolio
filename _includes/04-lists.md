@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+things i like to eat are:
+
+* pizza
+* pizza
+* pizza
